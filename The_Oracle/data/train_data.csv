@@ -1,0 +1,12 @@
+As the file "The_Oracle/data/train_data.csv" is a CSV file, it doesn't contain executable code. However, it should contain the training data for the AI models. The structure of the data might look something like this:
+
+```
+problem_category,problem_description,solution
+Software Engineering,"Unable to implement a sorting algorithm","Implement a quicksort algorithm"
+Finance and Marketing,"Struggling to increase product visibility","Invest in targeted social media advertising"
+Video game design,"Difficulty balancing game difficulty","Implement dynamic difficulty adjustment"
+Business Plans and Startup,"Need a business model for a tech startup","Consider a freemium model with subscription tiers"
+...
+```
+
+This is a CSV file with three columns: `problem_category`, `problem_description`, and `solution`. Each row represents a training example for the AI model. The `problem_category` and `problem_description` fields represent the input to the model, and the `solution` field represents the expected output.
