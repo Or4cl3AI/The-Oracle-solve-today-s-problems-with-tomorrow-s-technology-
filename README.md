@@ -40,3 +40,10 @@ The Oracle is an AI-powered solution that helps people solve their problems. It 
 1. Choose an agent from the `agents` folder.
 2. Run the `generate_solution.py` script to generate a solution to your problem.
 
+## License
+
+The Oracle is licensed under the MIT License.
+
+## Contact
+
+For more information, please contact [email protected]
