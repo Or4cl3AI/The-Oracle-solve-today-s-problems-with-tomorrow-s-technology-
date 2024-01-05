@@ -1,7 +1,8 @@
 repo_name: Or4cl3AI/The-Oracle-solve-today-s-problems-with-tomorrow-s-technology-
 report_id: d5082f4c6aef52728926e986287b1d89
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-24T01:55:50+00:00'
+timestamp: '2024-01-05T08:34:10+00:00'
 requested_by: Or4cl3AI
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/Or4cl3AI/The-Oracle-solve-today-s-problems-with-tomorrow-s-technology-
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,6 +27,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Or4cl3AI/The-Oracle-solve-today-s-problems-with-tomorrow-s-technology-
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -34,6 +37,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/Or4cl3AI/The-Oracle-solve-today-s-problems-with-tomorrow-s-technology-/blob/main/requirements.txt
   detection_source: requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-07-03 00:24:05.000000000 Z
@@ -46,29 +50,32 @@ tools:
   category: Application Utilities
   sub_category: Machine Learning Tools
   image_url: https://img.stackshare.io/service/4717/FtFnqC38_400x400.png
+  detection_source_url: https://github.com/Or4cl3AI/The-Oracle-solve-today-s-problems-with-tomorrow-s-technology-/blob/main/requirements.txt
   detection_source: requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-07-03 00:24:05.000000000 Z
 - name: pytorch
-  package_url: https://pypi.org/pytorch
+  package_url: https://pypi.org/project/pytorch
   license: BSD-3-Clause
   open_source: true
   hosted_saas: false
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/Or4cl3AI/The-Oracle-solve-today-s-problems-with-tomorrow-s-technology-/blob/main/requirements.txt
   detection_source: requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-07-03 00:24:05.000000000 Z
 - name: scikit-learn
   description: A set of python modules for machine learning and data mining
-  package_url: https://pypi.org/scikit-learn
+  package_url: https://pypi.org/project/scikit-learn
   license: BSD-3-Clause
   open_source: true
   hosted_saas: false
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19898/default_4343f8bba4f6051641ffca8b4fbe9b099402c84d.png
+  detection_source_url: https://github.com/Or4cl3AI/The-Oracle-solve-today-s-problems-with-tomorrow-s-technology-/blob/main/requirements.txt
   detection_source: requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-07-03 00:24:05.000000000 Z
